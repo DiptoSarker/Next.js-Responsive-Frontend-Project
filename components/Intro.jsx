@@ -13,8 +13,8 @@ const Intro = () => {
                     <span className={styles.brand}>DIPTO</span> DIGITAL PRODUCT AGENCY
                 </h1>
                 <p className={styles.desc}>
-                    Create live segments and target the right people for messages
-                    based on their behaviors.
+                    Create excellent website and target the right design for people
+                    based on their needs.
                 </p>
                 <button className={styles.button}>DISCOVER</button>
             </div>
