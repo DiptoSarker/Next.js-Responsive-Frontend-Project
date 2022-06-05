@@ -8,10 +8,10 @@ const Footer = () => {
             <div className={styles.cardL}>
                 <h1 className={styles.title}>DIPTO CREATIVES.</h1>
                 <h1 className={styles.linkTitle}>
-                    <a href="/contact" passHref>
+                    <Link href="/contact" passHref>
                       <span className={styles.linkText}>WORK WITH US</span>
                       <Image className={styles.img} src="/img/ling.png" width="40px" height="40px" alt=""/>
-                    </a>
+                    </Link>
                 </h1>
             </div>
             <div className={styles.cardS}>
